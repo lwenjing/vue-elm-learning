@@ -61,7 +61,9 @@
     import ratingSelect from 'components/ratingSelect/ratingSelect.vue';
     import split from 'components/split/split.vue';
 
+    /* eslint-disable */
     const POSITIVA = 0;
+    /* eslint-disable */
     const NAGATIVE = 0;
     const ALL = 2;
 
